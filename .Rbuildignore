@@ -14,3 +14,7 @@
 ^Meta$
 ^\.zenodo\.json$
 ^\.github$
+^DESCRIPTION\.bak$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
