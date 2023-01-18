@@ -15,3 +15,7 @@
 ^\.zenodo\.json$
 ^\.github$
 ^CITATION\.cff$
+^DESCRIPTION\.bak$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
